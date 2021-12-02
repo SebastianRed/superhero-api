@@ -1,0 +1,18 @@
+body {
+    background-image: url('../img/4824751.jpg');
+    background-color: maroon;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    background-color: white;
+}
+
+.fa-superpowers {
+    color: red;
+}
